@@ -1,0 +1,7 @@
+name: PlotAddon
+main: com.devlucca.plotgui.Main
+authors: [Lucca - @lucca]
+version: 1.0
+depend: [PlotSquared]
+commands:
+  terreno:

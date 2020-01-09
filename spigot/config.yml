@@ -1,0 +1,40 @@
+#Coloque aqui sua licença
+Licenca: '0000-0000-0000'
+
+#Aqui é o prefixo que ficará antes das mensagens
+Prefixo: '&f&l[SeuServidor] '
+
+Comandos:
+    Add_money: 'money add'
+    Remove_money: 'money remove'
+
+#Defina os valores
+Economia:
+    #Aqui é o valor para ser utilizada a função de limpar até a bedrock.
+    Preço_Limpar_Pedreiro: 40000
+    #Aqui é o valor para ser utilizada a função de restaurar o terreno ao padrão.
+    Preço_Limpar: 10000
+    Lore_Custo: '&7%valor% R$'
+
+#Jeito que irá formatar o dinheiro na mensagem
+#TIPO 1 = ABREVIADO (Exemplo: 1k, 1M, 1T, 1Q)
+#TIPO 2 = NORMAL (Exemplo: 1.000$)
+#TIPO 3 = SEM FORMATAÇÃO (Exemplo: 100000)
+Formatacao: 1
+    
+#Coloque aqui o nome do seu mundo de plots
+PlotWorld_name: 'plotworld'
+
+Construcoes:
+    Gelo:
+        item: 
+            id: headbase-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODcyZDliOThhNmIzNGEyNzYyYWFjMWFmOTE1ODczYzA2NmM0M2MyYjJiOGQ2ODlkMjc2MjZjYzVhZmNiMTEifX19
+            lore: 
+            - '&7Esta é uma lore de testes'
+            - ''
+            - '&f&lPREÇO: &7%price$'
+        schematic: teste
+        x_fix: 0
+        y_fix: 0
+        z_fix: 0
+        preço: 10000000

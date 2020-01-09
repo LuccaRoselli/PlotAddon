@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Lucca Roselli/Desktop/Servers test/Factions/spigot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lucca Roselli/Desktop/Ethos/Server/EthosRealms 24-08-2018/RankUP/plugins/PlotSquared.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lucca Roselli/Desktop/Ethos/Server/EthosRealms 24-08-2018/RankUP/plugins/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/csgo/Downloads/Economy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lucca Roselli/Desktop/Servers test/Factions/plugins usando/FastAsyncWorldEdit-bukkit-18.05.25-4049014-1138-20.1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lucca Roselli/Desktop/Servers test/Factions/plugins usando/WorldEdit.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
